@@ -1,0 +1,71 @@
+*{
+	margin:0;
+	padding:0;
+	left:0;
+	font-family:'leagueMonovariable';
+}
+
+	
+body{
+border:6px solid white;
+border-style:groove;
+background-color:linear-gradient(red,white);
+}
+div.text{
+	text-transform: capitalize;
+	font-size:15px;
+}
+
+
+ul{
+text-lign:center;
+    float:right;
+	margin-bottom:20px;
+	
+	}
+	
+	ul li{
+	display:inline-block;
+	}
+ul li a{
+	text-decoration:justify;
+	color:red;
+	border: 03px solid black;
+	}
+ ul li a:hover{
+ background-color:#fff;
+ background-image:linear-gradient(red,white);
+ color:"red";
+ }
+ div.college{
+ background-image:url("wcc4.jpg");
+background-position:center;
+background-size:cover;
+width:100%;
+height:500px;
+background-repeat:no-repeat;
+ }
+ div.name{
+ background-color:red;
+ background-image:linear-gradient(red,white);
+ height:200%;
+ font-color:white;
+ }
+ div.img
+ {
+ background-color:white;
+ padding:20px 20px;
+  background-image:url("mercy22.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  color:white;
+ }
+
+div.title
+{
+font-family:"Times New Roman",Times,Serif;
+text-align:center;
+text-decoration:justify;
+}
+div.img{
+}

@@ -1,0 +1,79 @@
+*{
+	margin:0px;
+	padding:0;
+	font-family:century gothic;
+	}
+	body{
+border:10px;
+border-style:groove;
+height:700px;
+}
+
+  
+h1{ 
+
+    margin-top: 30px; 
+    text-align: center; 
+    font-size: 30px; 
+    font-family: 'century gothic'; 
+    color: #ffffcc; 
+    text-shadow: 0 0 5px #000, 
+                 0 0 10px #000,  
+                 0 0 20px red,  
+                 0 0 30px red,  
+                 0 0 40px red,  
+                 0 0 55px red,  
+                 0 0 70px red; 
+}
+
+ .title{
+	 text-align:center;
+ }
+ .course{
+	 float:left;
+	 padding:20px 20px;
+	 	 color:white;
+        font-size:21px;
+		text-transform:capitalize;
+		transform:translate(20%,10%);
+ }
+ .code{
+	 float:right;
+	 padding:20px 20px;
+	 	 color:white;
+		 font-size:21px;
+		text-transform:capitalize;
+		transform:translate(-60%,-0.1%);
+		}
+  
+  
+  
+.button{
+float:left;
+position:center;
+color:#fff;
+transform:translate(100%,100%);
+}
+.btn{
+border:1px solid #000;
+border-style:solid double;
+padding:10px 10px;
+color:red;
+cellpadding:100px;
+margin-top:50px;
+}
+.btn:hover{
+background-color:red;
+ background-image:linear-gradient(cyan,white);
+color:#800000;
+}
+ div.learn{
+	 text-transform: capitalize;
+	 color:black;
+ }
+div.title{
+text-align:center;
+}
+div.title1{
+text-align:center;
+}
